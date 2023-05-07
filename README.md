@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **ivanaraolaza@gmail.com**
 
-- ⚡ **Fun fact: **  I'm into metal music
+- ⚡ **Fun fact:**  I'm into metal music
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
