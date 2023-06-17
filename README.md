@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivootxt" alt="ivootxt" /></a> </p> -->
 
-- 🔭 I’m currently pursuing my **Systems Engineer degree**
+- 🔭 I’m currently pursuing my **Bachlor's of Computer Science degree**
 
 - 🌱 I’m currently learning about **networking** to get the **CCNA certification**
 
