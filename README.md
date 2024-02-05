@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ivoo</h1>
+<h1 align="center">Hi 👋, I'm Iván</h1>
 <h3 align="center">Tech lover and Cybersecurity enthusiast from Argentina</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivootxt" alt="ivootxt" /></a> </p> -->
 
-- 🔭 I’m currently pursuing my **Electronic Engineer degree**
+- 🔭 I’m currently pursuing my **Systems Engineer degree**
 
 - 🌱 I’m currently learning about **networking** to get the **CCNA certification**
 
 - 🤝 I’m **looking for** getting into Cybersecurity
-
-- 📫 How to reach me: **ivanaraolaza@gmail.com**
 
 - ⚡ **Fun fact:**  I'm into metal music
 
