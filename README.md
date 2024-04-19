@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently pursuing my **Electrical Engineer degree**
 
-- 🌱 I’m currently learning about **Rust** for **Embedded Systems**
+- 🌱 I’m currently learning about **Embedded Systems**
 
 - 🤝 I’m **looking for** being able to hack some things
-
-- ⚡ **Fun fact:**  I'm into metal music
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
