@@ -25,3 +25,16 @@
 
 <!-- <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>  -->
 <!-- <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> -->
+
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ivanaraolaza&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanaraolaza&layout=compact&theme=dark" alt="top-langs" />
+</p>
+
+<br>
+
