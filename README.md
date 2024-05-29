@@ -29,12 +29,16 @@
 
 <br>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ivanaraolaza&theme=dark&show_icons=true" alt="shwetangStats" />  
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanaraolaza&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
 <br>
+
+<p align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanaraolaza&layout=compact&theme=dark" alt="top-langs" />
+</p>
+
 
