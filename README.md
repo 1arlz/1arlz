@@ -2,12 +2,12 @@
 <h3 align="center">Tech lover and Cybersecurity enthusiast from Argentina</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivootxt" alt="ivootxt" /></a> </p> -->
+<div align="left">
+  🔭 I’m currently pursuing my **Electrical Engineer degree**
 
-- 🔭 I’m currently pursuing my **Electrical Engineer degree**
+🌱 I’m currently learning about **Embedded Systems**
 
-- 🌱 I’m currently learning about **Embedded Systems**
-
-- 🤝 I’m **looking for** being able to hack some things
+🤝 I’m **looking for** being able to hack some things
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,20 +25,16 @@
 
 <!-- <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>  -->
 <!-- <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> -->
+</div>
 
 
-<br>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanaraolaza&theme=dark&show_icons=true" alt="shwetangStats" />  
-  <br />
-  <br />
-</p>
-
-<br>
-
-<p align="right">
+<div align="right">
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ivanaraolaza&theme=dark&show_icons=true" alt="shwetangStats" />
+<div>
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanaraolaza&layout=compact&theme=dark" alt="top-langs" />
-</p>
+</div>
+</div>
 
 
