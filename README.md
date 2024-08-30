@@ -6,7 +6,7 @@
 
 
  
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanaraolaza&layout=donut&theme=synthwave" alt="top-langs" /> | <img src="https://github-readme-stats.vercel.app/api?username=ivanaraolaza&theme=synthwave&show_icons=true" alt="shwetangStats" /> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1arlz&layout=donut&theme=synthwave" alt="top-langs" /> | <img src="https://github-readme-stats.vercel.app/api?username=1arlz&theme=synthwave&show_icons=true" alt="shwetangStats" /> |
 |------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
